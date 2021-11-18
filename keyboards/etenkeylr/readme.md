@@ -1,10 +1,10 @@
 # etenkeylr
 
-![etenkeylr](imgur.com image replace me!)
+[etenkeylr](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [tkhub_Enterprise](https://github.com/yourusername)
+* Keyboard Maintainer: [NanoFacturing](https://github.com/NanoFacturing)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

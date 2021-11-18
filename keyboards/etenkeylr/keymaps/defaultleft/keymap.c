@@ -34,7 +34,7 @@ enum layer_names {
                                         register_code(KC_LSFT);     \
                                         SEND_STRING(code);          \
                                         register_code(KC_LCTRL);    \
-                                        register_code(KC_LSFT)    
+                                        register_code(KC_LSFT)
 
 #define     SEND_CTRL_SFT_ALT(code)     register_code(KC_LCTRL);    \
                                         register_code(KC_LSFT);     \
@@ -78,7 +78,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /* Base */
     [_DEFTN] = LAYOUT(
     //              COL0        COL1        COL2        COL3        COL4        COL5
-    /* ROW4 */      KC_ESC,     KC_BSPC,    KC_PMNS,    KC_PAST,    KC_PSLS,    KCO_CtrlA,  \
+    /* ROW4 */      KC_ESC,     KC_BSPC,    KC_PSLS,    KC_PAST,    KC_PMNS,    KCO_CtrlA,  \
     /* ROW3 */      KC_TAB,     KC_PPLS,    KC_P7,      KC_P8,      KC_P9,      KCO_CtrlX,  \
     /* ROW2 */      KC_LCTL,    KC_NO,      KC_P4,      KC_P5,      KC_P6,      KCO_CtrlC,  \
     /* ROW1 */      KC_LSFT,    KC_ENT,     KC_P1,      KC_P2,      KC_P3,      KCO_CtrlV,  \
