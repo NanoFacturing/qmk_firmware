@@ -1,6 +1,6 @@
 # etenkeylr
 
-[etenkeylr](imgur.com image replace me!)
+![etenkeylr]()
 
 *A short description of the keyboard/project*
 
@@ -8,9 +8,9 @@
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
-Make example for this keyboard (after setting up your build environment):
+Make default left hand layout for this keyboard (after setting up your build environment):
 
-    make etenkeylr:default
+    make etenkeylr:defaultleft
 
 Flashing example for this keyboard:
 
