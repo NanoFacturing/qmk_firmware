@@ -1,6 +1,6 @@
 # etenkeylr
 
-![etenkeylr]()
+Example:[EnhancedTenKeyLeftLayout](https://github.com/NanoFacturing/qmk_firmware/blob/master/keyboards/etenkeylr/hardware/LeftTenkey_pic.png)
 
 *A short description of the keyboard/project*
 
